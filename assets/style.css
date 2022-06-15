@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+header {
+
+    width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 10;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: gray;
+    text-align: center;
+}
+
+header.name{
+    font-size: 48px;
+}
+
+li {
+    display: inline;
+    list-style-type: none;
+}
