@@ -24,3 +24,19 @@ li {
     display: inline;
     list-style-type: none;
 }
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-color: rgb(48, 15, 126);
+    color: white;
+    text-align: center;
+}
+
+footer{
+    background-color: black;
+}
